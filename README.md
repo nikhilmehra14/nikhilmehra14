@@ -6,7 +6,6 @@
 <div align="center">
       <br />
       <img
-        style="display: flex; flex-wrap: wrap"
         src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1703852193~exp=1703852793~hmac=77ea132648ba4972bcbe553709e390cd5699eb3b629d76100fdeb514188b172b"
         width="200"
         height="200"
@@ -17,7 +16,7 @@
   <h1 align="center">Languages & Technologies</h1>
     <div align="center">
       <img
-        src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,scss,react,tailwind,nodejs,express,redux,php,git,github,linux,mongo,postgres,mysql"
+        src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,scss,react,tailwind,nodejs,express,redux,php,git,github,linux,mongo,postgres,mysql,docker"
       />
     </div>
 
