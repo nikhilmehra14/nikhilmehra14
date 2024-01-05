@@ -16,7 +16,7 @@
   <h1 align="center">Languages & Technologies</h1>
     <div align="center">
       <img
-        src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,scss,react,tailwind,nodejs,express,redux,php,git,github,linux,mongo,postgres,mysql,docker"
+        src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,tailwind,nodejs,express,php,git,github,linux,mongo,mysql,docker"
       />
     </div>
 
