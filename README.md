@@ -1,6 +1,6 @@
 <div align="center">
       <h1>Hi, I'm Nikhil Mehra</h1>
-      <h3>☀️Rising day by day.🚀</h3>
+      <h3>☀️Rising day by day🚀</h3>
 </div>
 
 <div align="center">
