@@ -45,10 +45,10 @@
     </p>
 <h2 align="center">🔗 Connect With Me:</h2>
 <p align="center">
-<a href="https://twitter.com/iamnikhilmehra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikhilmehra" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nikhil-mehra14911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilmehra" height="30" width="40" /></a>
 
-<a href="https://www.leetcode.com/nikhilmehra21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikhilmehra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nikhil-mehra14911" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilmehra" height="30" width="40" /></a>
+
+<a href="https://www.leetcode.com/nikhilmehra21" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikhilmehra" height="30" width="40" /></a>
 <a href="mailto:nikhilmehra248@gmail.com" target="_blank">
 <img align="center" src="https://user-images.githubusercontent.com/91747922/145641534-6a83084f-2982-449d-9b06-64f8ec368f57.png" alt="nikhilmehra248@gmail.com" height="30" width="40" />
 </a>
