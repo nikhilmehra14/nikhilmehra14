@@ -45,7 +45,7 @@
     </p>
 <h2 align="center">🔗 Connect With Me:</h2>
 <p align="center">
-<div style="display:flex;justify-content:center;"> 
+<div style="display:flex;justify-content:center;align-items:center;"> 
 <a href="https://linkedin.com/in/nikhil-mehra14911" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilmehra" height="30" width="40" /></a>
 
 <a href="https://www.leetcode.com/nikhilmehra21" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikhilmehra" height="30" width="40" /></a>
