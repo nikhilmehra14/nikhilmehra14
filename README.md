@@ -29,7 +29,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilmehra14&" alt="nikhilmehra14" />
 </p>
 <h2 align="center">🔗 Connect With Me:</h2>
-<p align="center">
+<div style="display: flex;justify-content: center;align-items: center;">
 
   <a href="https://www.leetcode.com/nikhilmehra21" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikhilmehra" height="30" width="40" /></a>
 
@@ -40,7 +40,7 @@
       <img align="center" src="https://user-images.githubusercontent.com/91747922/145641534-6a83084f-2982-449d-9b06-64f8ec368f57.png" alt="nikhilmehra248@gmail.com" height="30" width="40" />
   </a>
 
-</p>
+</div>
 <!-- Visitor Count -->
 <h2 align="center">👀Visitor Count<br>
 <img align = "center" src="https://profile-counter.glitch.me/nikhilmehra14/count.svg" />
