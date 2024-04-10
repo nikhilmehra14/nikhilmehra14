@@ -26,7 +26,7 @@
 </table>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilmehra14&" alt="nikhilmehra14" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nikhilmehra14" alt="nikhilmehra14" />
 </p>
 
 <h2 align="center">👀Visitor Count<br>
