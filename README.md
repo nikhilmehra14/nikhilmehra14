@@ -12,7 +12,7 @@
 
 <h1 align="center">Languages & Technologies</h1>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,react,tailwind,nodejs,express,go,php,git,github,linux,mongo,mysql,postgres,docker,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,bootstrap,react,tailwind,nodejs,express,go,php,git,github,linux,mongo,mysql,postgres,docker,grafana" />
 </div>
 
 <h2 align="center">Github Statistics</h2>
