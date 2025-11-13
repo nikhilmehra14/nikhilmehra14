@@ -15,20 +15,25 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,bootstrap,react,tailwind,nodejs,express,go,php,git,github,linux,mongo,mysql,postgres,docker,grafana" />
 </div>
 
-<h2 align="center">Github Statistics</h2>
+<h2 align="center">📊 GitHub Statistics</h2>
+
 <table align="center">
-  <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=nikhilmehra14&show_icons=true&locale=en" alt="nikhilmehra14" />
-  </td>
-  <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilmehra14&show_icons=true&locale=en&layout=compact" alt="nikhilmehra14" />
-  </td>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=nikhilmehra14&show_icons=true&theme=transparent&hide_border=false&locale=en" alt="nikhilmehra14 GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilmehra14&layout=compact&theme=transparent&hide_border=false&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
 </table>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nikhilmehra14" alt="nikhilmehra14" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nikhilmehra14&theme=transparent&hide_border=false" alt="GitHub Streak" />
 </p>
 
-<h2 align="center">👀Visitor Count<br>
-<img align = "center" src="https://profile-counter.glitch.me/nikhilmehra14/count.svg" />
-</h2>
+<h2 align="center">👀 Visitor Count</h2>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/nikhilmehra14/count.svg" alt="Visitor Count" />
+</p>
