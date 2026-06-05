@@ -1,62 +1,41 @@
 <div align="center">
-  <h1>Hi, I'm Nikhil Mehra</h1>
-  <h3>☀️ Rising day by day 🚀</h3>
+
+# Hey there, I'm Nikhil Mehra 👋
+
+### ☀️ Rising day by day &nbsp;·&nbsp; 🚀 Building things that matter
+
+<br/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Software+Engineer;Systems+%26+Backend+Developer;Open+Source+Enthusiast;Always+learning%2C+always+growing)
+
+</div>
+
+---
+
+## 💻 Languages & Technologies
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,bootstrap,react,tailwind,nodejs,express,go,php,git,github,linux,mongo,mysql,postgres,docker,grafana" alt="Tech Stack" />
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhilmehra14&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Nikhil's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilmehra14&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <br />
-  <img 
-    src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740" 
-    width="200" 
-    height="200" 
-    alt="Nikhil Mehra Avatar"
-  />
-  <br />
+  <img src="https://streak-stats.demolab.com?user=nikhilmehra14&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<h1 align="center">💻 Languages & Technologies</h1>
+---
+
+## 👀 Profile Views
+
 <div align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,bootstrap,react,tailwind,nodejs,express,go,php,git,github,linux,mongo,mysql,postgres,docker,grafana" 
-    alt="Tech Stack Icons" 
-  />
+  <img src="https://komarev.com/ghpvc/?username=nikhilmehra14&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Visitor Count" />
 </div>
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <!-- GitHub Stats -->
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=nikhilmehra14&show_icons=true&theme=transparent&hide_border=false&locale=en" 
-        alt="nikhilmehra14 GitHub Stats" 
-      />
-    </td>
-    <td align="center">
-      <!-- Top Languages -->
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilmehra14&layout=compact&theme=transparent&hide_border=false&langs_count=8" 
-        alt="Top Languages" 
-      />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <!-- GitHub Streak Stats (Vercel alternative to Heroku) -->
-  <img 
-    src="https://git-hub-streak-stats.vercel.app?user=nikhilmehra14&theme=transparent&hide_border=false" 
-    alt="GitHub Streak" 
-  />
-</p>
-
-<h2 align="center">👀 Visitor Count</h2>
-
-<p align="center">
-  <!-- Using Komarev badge instead of broken glitch counter -->
-  <img 
-    src="https://komarev.com/ghpvc/?username=nikhilmehra14&style=flat-square&color=blue" 
-    alt="Visitor Count" 
-  />
-</p>
