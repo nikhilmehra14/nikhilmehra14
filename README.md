@@ -23,16 +23,6 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="./assets/stats.svg" onerror="this.src='https://github-readme-stats.vercel.app/api?username=nikhilmehra14&show_icons=true&theme=github_dark&hide_border=true'" alt="Nikhil's GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="180em" src="./assets/top-langs.svg" onerror="this.src='https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilmehra14&layout=compact&theme=github_dark&hide_border=true'" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="./assets/streak.svg" onerror="this.src='https://streak-stats.demolab.com/?user=nikhilmehra14&theme=dark&hide_border=true'" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhilmehra14&theme=github_dark" alt="Profile Summary" />
 </div>
 
