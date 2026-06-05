@@ -6,7 +6,7 @@
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Software+Engineer;Systems+%26+Backend+Developer;Open+Source+Enthusiast;Always+learning%2C+always+growing)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Software+Engineer;Systems+%26+Backend+Developer;Always+learning%2C+always+growing)
 
 </div>
 
@@ -23,13 +23,13 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhilmehra14&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Nikhil's GitHub Stats" />
+  <img height="180em" src="./assets/stats.svg" onerror="this.src='https://github-readme-stats.vercel.app/api?username=nikhilmehra14&show_icons=true&theme=github_dark&hide_border=true'" alt="Nikhil's GitHub Stats" />
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilmehra14&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+  <img height="180em" src="./assets/top-langs.svg" onerror="this.src='https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilmehra14&layout=compact&theme=github_dark&hide_border=true'" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nikhilmehra14&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="./assets/streak.svg" onerror="this.src='https://streak-stats.demolab.com/?user=nikhilmehra14&theme=dark&hide_border=true'" alt="GitHub Streak" />
 </div>
 
 <div align="center">
